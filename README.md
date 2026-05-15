@@ -14,6 +14,9 @@
 ## 🔍 Framework Overview
 
 <p align="center">
+  <img src="images/mdu_overview.png" alt="MDU Framework Overview" width="900">
+</p>
+<p align="center">
   <em>MDU pulls the prompt-conditional prediction back toward the prompt-masked unconditional anchor at every masked response position.</em>
 </p>
 
