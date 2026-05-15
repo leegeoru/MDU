@@ -55,7 +55,7 @@ For TOFU we additionally fine-tune each backbone on the full TOFU corpus to inst
 
 ### 🚀 MDU Training
 
-Edit the paths at the top of `run_main.sh` first, then pass $\tau \in \{0, 0.25, 0.5, 0.75, 1\}$ to control the forgetting–quality trade-off.
+Edit the paths at the top of `run_main.sh` first, then pass $\tau \in \{0, 0.25, 0.5, 0.75, 1\}$ to control the unlearning strength.
 
 ```bash
 # TOFU forget10 — LLaDA-8B-Instruct
