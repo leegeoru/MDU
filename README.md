@@ -17,7 +17,7 @@
   <img src="images/mdu_overview.png" alt="MDU Framework Overview" width="900">
 </p>
 
-**MDU (Masked Diffusion Unlearning)** is the first unlearning objective designed for **masked diffusion language models (MDLMs)** such as LLaDA and Dream. Treating unlearning as the *structural inverse* of MDLM fine-tuning, MDU pulls the prompt-conditional prediction back toward the prompt-masked unconditional prediction at every masked response position. A single temperature $\tau \in [0, 1]$ smoothly controls the **privacy–utility balance** — smaller $\tau$ enforces stronger erasure, larger $\tau$ preserves fluent generation.
+**MDU (Masked Diffusion Unlearning)** is the first unlearning objective designed for **masked diffusion language models (MDLMs)** such as LLaDA and Dream. Treating unlearning as the *structural inverse* of MDLM fine-tuning, MDU pulls the prompt-conditional prediction back toward the prompt-masked unconditional prediction at every masked response position.
 
 ---
 
