@@ -1,10 +1,5 @@
 # Machine Unlearning for Masked Diffusion Language Models
 
-**[arXiv preprint, 2026]**
-📄 [Paper (arXiv)](https://arxiv.org/abs/TBD)
-
----
-
 ## Updates
 
 - **05-15-2026**: Code released.
