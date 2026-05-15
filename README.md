@@ -73,7 +73,7 @@ All experiments use only public assets.
 | Dataset / Model | Source | License |
 |---|---|---|
 | TOFU (`forget10`) | [TOFU release](https://github.com/locuslab/tofu) | MIT |
-| RWKU (10 entities) | [RWKU release](https://github.com/jinzhuoran/RWKU) | Apache-2.0 |
+| RWKU (10 entities) | [RWKU release](https://github.com/jinzhuoran/RWKU) | CC-BY-4.0 |
 | `GSAI-ML/LLaDA-8B-Instruct` | HuggingFace | MIT |
 | `Dream-org/Dream-v0-Instruct-7B` | HuggingFace | Apache-2.0 |
 
@@ -159,4 +159,4 @@ The MDU step itself is implemented in `src/unlearn_mdu_{llada,dream}.py` (search
 ## 📄 License
 
 This repository is released under the **MIT License** (see [`LICENSE`](LICENSE)).
-External assets retain their original licenses: TOFU (MIT), RWKU (Apache-2.0), LLaDA-8B-Instruct (MIT), Dream-v0-Instruct-7B (Apache-2.0).
+External assets retain their original licenses: TOFU (MIT), RWKU (CC-BY-4.0), LLaDA-8B-Instruct (MIT), Dream-v0-Instruct-7B (Apache-2.0).
